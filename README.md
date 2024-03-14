@@ -27,7 +27,7 @@ The plugin's commands use 'unite' so you can do 'unite update'.
 
 ### Commands
 | Phrase | Meaning |
-| ------------- | ------------- |1,t
+| ------------- | ------------- |
 | export <node> | @export var node  |
 | ready <node> | @onready var node |
 | hint <class> | : Class |
